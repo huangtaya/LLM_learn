@@ -27,6 +27,6 @@ https://hf-mirror.com/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions
 ## 开始训练
 ### 直接运行
 预训练:\
-python train.py\
+python train.py 模型路径\
 SFT:\
-python sft_train.py
+python sft_train.py 模型路径
